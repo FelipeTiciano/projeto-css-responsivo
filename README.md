@@ -1,4 +1,4 @@
-# 🌐 Entrega CSS 2 – Desenvolvimento Front-End para Web
+# 🌐 projeto-css-responsivo – Desenvolvimento Front-End para Web
 
 ## 👤 Autor
 **Felipe Ticiano Foltram**  
@@ -7,8 +7,7 @@ Instituição: **Cruzeiro do Sul Virtual**
 
 ---
 
-## 🧩 Nome da Atividade
-**Entrega II – Aplicação de CSS3 para Interface Visual Profissional, Responsiva e Acessível**
+## 🧩 Aplicação de CSS3 para Interface Visual Profissional, Responsiva e Acessível**
 
 ---
 
